@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DSW3-ProvaSubstitutiva-MateusFerraz:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/DSW3_ProvaSubstitutiva_MateusFerraz_war</output-path>
+    <root id="archive" name="DSW3-ProvaSubstitutiva-MateusFerraz_war.war">
+      <element id="artifact" artifact-name="DSW3-ProvaSubstitutiva-MateusFerraz:war exploded" />
+    </root>
+  </artifact>
+</component>
